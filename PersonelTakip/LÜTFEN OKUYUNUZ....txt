@@ -1,0 +1,9 @@
+PersonelDb.sql nasýl yüklenir?
+
+1- Mssql e PersonelDb isminde veritabaný oluþturun. (Varsa tüm tablolarý silin)
+
+2- PersonelDb veritabaný seçiliyken new query deyin. PersonelDb.sql dosyasýný new query ekranýna sürükleyip býrakýn.
+
+3- Daha sonra execute diyerek query çalýþtýrýn.
+
+Ýyi çalýþmalar...
